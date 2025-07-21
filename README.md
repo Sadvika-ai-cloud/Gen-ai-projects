@@ -1,4 +1,4 @@
-# Gen-ai-projects# Generative AI Learning Projects
+ Generative AI Learning Projects
 
 This repository contains my Generative AI learning progress, mini-projects, and experiments.
 
